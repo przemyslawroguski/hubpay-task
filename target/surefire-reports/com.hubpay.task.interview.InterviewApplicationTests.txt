@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.hubpay.task.interview.InterviewApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.675 s -- in com.hubpay.task.interview.InterviewApplicationTests
