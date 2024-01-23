@@ -1,0 +1,16 @@
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/controller/CustomerController.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/model/entities/TransactionEntity.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/repository/WalletRepository.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/repository/CustomerRepository.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/model/entities/WalletEntity.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/InterviewApplication.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/model/request/WalletTransactionAddRequest.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/controller/TransactionController.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/controller/WalletController.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/model/request/WalletTransactionWithdrawRequest.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/exception/CustomerNotFound.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/service/TransactionService.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/service/WalletService.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/model/entities/CustomerEntity.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/service/CustomerService.java
+/Users/przemyslawroguski/soft/hubpay-task/src/main/java/com/hubpay/task/interview/repository/TransactionRepository.java

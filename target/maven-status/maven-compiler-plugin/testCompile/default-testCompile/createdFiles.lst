@@ -1,0 +1,6 @@
+com/hubpay/task/interview/service/CustomerServiceIT.class
+com/hubpay/task/interview/service/WalletServiceTest.class
+com/hubpay/task/interview/InterviewApplicationTests.class
+com/hubpay/task/interview/service/WalletServiceIT.class
+com/hubpay/task/interview/service/TransactionServiceTest.class
+com/hubpay/task/interview/service/CustomerServiceTest.class
